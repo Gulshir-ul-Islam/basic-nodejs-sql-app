@@ -1,4 +1,4 @@
-# A basic NodeJS + SQL project [Credits] (http://realworld.io)
+# A basic NodeJS + SQL project [Credits](http://realworld.io)
 
 Setup:
 
