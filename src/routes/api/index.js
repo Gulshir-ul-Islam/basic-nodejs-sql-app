@@ -1,10 +1,10 @@
 import { Router } from "express";
 
-import { usersRouter } from "./users";
-import { userRouter } from "./user";
-import { tagsRouter } from "./tags";
-import { profilesRouter } from "./profiles";
-import { articlesRouter } from "./articles/index";
+import { usersRouter } from "./users.js";
+import { userRouter } from "./user.js";
+import { tagsRouter } from "./tags.js";
+import { profilesRouter } from "./profiles.js";
+import { articlesRouter } from "./articles/index.js";
 
 export const apiRouter = Router();
 

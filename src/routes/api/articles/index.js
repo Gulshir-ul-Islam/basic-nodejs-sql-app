@@ -1,6 +1,6 @@
 import { Router } from "express";
 
-import { commentsRouter } from "./comments"
+import { commentsRouter } from "./comments.js"
 
 export const articlesRouter = Router();
 

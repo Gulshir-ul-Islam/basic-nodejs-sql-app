@@ -1,6 +1,6 @@
 import express, { urlencoded } from "express";
 
-import { apiRouter } from "./routes/api";
+import { apiRouter } from "./routes/api/index.js";
 
 const PORT = 3001;
 const app = express();
